@@ -1,8 +1,8 @@
-const amout=12
+const names=require("./4-name")
+const utils=require("./5-utils")
 
-if(amout<10){
-    console.log("small number")
-}
-else{
-    console.log("big number")
-}
+
+utils.sayHi(names.cook)
+
+
+
