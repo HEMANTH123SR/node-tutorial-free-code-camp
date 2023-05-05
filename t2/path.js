@@ -13,4 +13,5 @@ console.log(base)
 
 const absolute=path.resolve(__dirname,'t2','subFolder','test.txt')
 
+
 console.log(absolute)

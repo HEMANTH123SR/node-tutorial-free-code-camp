@@ -11,6 +11,6 @@ console.log(filePath)
 const base=path.basename(filePath)
 console.log(base)
 
-const absolutePath=path.resolve(__dirname,"t2","subFolder","test.txt")
+const absolutePath=path.resolve(__dirname,"subFolder","test.txt")
 
 console.log(absolutePath)
