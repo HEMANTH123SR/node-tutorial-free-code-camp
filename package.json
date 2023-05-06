@@ -1,0 +1,14 @@
+{
+  "name": "free-code-camp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "loaddash": "^0.0.1-security"
+  }
+}
