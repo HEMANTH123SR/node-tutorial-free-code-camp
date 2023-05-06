@@ -9,9 +9,9 @@ app.use(express.static('./public'))
 
 //get request
 
-app.get('/',(req,res)=>{
-res.sendFile(path.resolve(__dirname,'./navbar-app/index.html'))
-})
+// app.get('/',(req,res)=>{
+// res.sendFile(path.resolve(__dirname,'./navbar-app/index.html'))
+// })
 
 
 //bad request
